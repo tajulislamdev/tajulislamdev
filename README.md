@@ -36,12 +36,15 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 
 ---
 
-## 🛠 Tech Stack & Tools
-
 ### 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,Css,react js,tailwindcss,vite,bootstrap" alt="Frontend Techs" />
+  <img src="https://skillicons.dev/icons?i=html,css,reactjs,tailwindcss,vite,bootstrap" alt="Frontend Techs" />
 </p>
+
+<p align="center">
+  These are the main frontend technologies I work with to build responsive and modern web applications.
+</p>
+
 
 ### ⚙ Backend & Others (Learning)
 <p align="center">
@@ -60,7 +63,7 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 
 ## 💬 Ask Me About
 - Frontend development, web design, or building responsive websites  
-- React.js, Next.js, TailwindCSS, and JavaScript  
+- React.js,  TailwindCSS, and JavaScript  
 
 ---
 
@@ -82,7 +85,6 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 <p align="center">
 📧 Email: <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br>
 💼 LinkedIn: <a href="https://linkedin.com/in/tajul-islam-b4803a378">Md. Tajul Islam</a> <br>
-📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">Md. Tajul Islam</a>
+📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">🔵 Md. Tajul Islam</a>
 </p>
-
 
