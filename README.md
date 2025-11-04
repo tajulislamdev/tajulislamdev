@@ -38,8 +38,9 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 
 ### 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,reactjs,tailwindcss,vite,bootstrap" alt="Frontend Techs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,vite,bootstrap" alt="Frontend Techs" />
 </p>
+
 
 <p align="center">
   These are the main frontend technologies I work with to build responsive and modern web applications.
@@ -80,11 +81,13 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 - Improving **Next.js**skills  
 - Learning best practices for **clean and maintainable code**  
 
----
 ## 📫 Contact Me
+
 <p align="center">
-📧 Email: <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br>
-💼 LinkedIn: <a href="https://linkedin.com/in/tajul-islam-b4803a378">Md. Tajul Islam</a> <br>
-📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">🔵 Md. Tajul Islam</a>
+  📧 <strong>Email:</strong> <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br><br>
+  
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/tajul-islam-b4803a378" target="_blank">Md. Tajul Islam</a> <br><br>
+  
+  🔵 <strong>Facebook:</strong> <a href="https://facebook.com/profile.php?id=61579169183396" target="_blank">Md. Tajul Islam</a>
 </p>
 
