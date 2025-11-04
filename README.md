@@ -40,12 +40,12 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 
 ### 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Techs" />
+  <img src="https://skillicons.dev/icons?i=html,Css,react js,tailwindcss,vite,bootstrap" alt="Frontend Techs" />
 </p>
 
 ### ⚙ Backend & Others (Learning)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,websocket" alt="Backend Techs" />
+  <img src="https://skillicons.dev/icons?i=next.js,express,mongodb,websocket" alt="Backend Techs" />
 </p>
 
 ---
@@ -57,23 +57,6 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamsheikh-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Contact Me
-<p align="center">
-📧 Email: <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br>
-💼 LinkedIn: <a href="https://linkedin.com/in/tajul-islam-b4803a378">Md. Tajul Islam</a> <br>
-📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">Md. Tajul Islam</a>
-</p>
-
----
 
 ## 💬 Ask Me About
 - Frontend development, web design, or building responsive websites  
@@ -83,25 +66,23 @@ I’m always eager to learn new technologies and enjoy sharing my knowledge with
 
 ## 🌱 I’m Currently Learning
 - Advanced **React.js & Next.js** concepts  
-- **TypeScript** and scalable front-end architectures  
 - Full-stack development & API integration  
 
 ---
 
-## 🤝 I Want to Collaborate On
-- Open-source projects  
-- Frontend & Full-Stack applications  
-- Hackathons or coding challenges  
 
 ---
 
 ## 🤔 I’m Looking for Help With
-- Improving **Next.js** and **TypeScript** skills  
+- Improving **Next.js**skills  
 - Learning best practices for **clean and maintainable code**  
 
 ---
+## 📫 Contact Me
+<p align="center">
+📧 Email: <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br>
+💼 LinkedIn: <a href="https://linkedin.com/in/tajul-islam-b4803a378">Md. Tajul Islam</a> <br>
+📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">Md. Tajul Islam</a>
+</p>
 
-## 🎉 Fun Fact
-- I once spent **3 hours debugging a single missing semicolon!** 😅  
-- I love **coding with coffee** ☕ late at night  
 
