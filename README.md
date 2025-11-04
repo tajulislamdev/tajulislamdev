@@ -1,92 +1,107 @@
-<!-- ======== 🧠 SIAM SHEIKH — DARK PROFESSIONAL PROFILE ======== -->
+<!-- ======== 🧠 MD.TAJUL ISLAM — DARK PROFESSIONAL PROFILE ======== -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#9A6DFF">Siam Sheikh</span></h1>
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Loves+Clean+UI+%26+Animations" alt="Typing SVG" /> </p>
-
-
+<h1 align="center">👋 Hi, I'm <span style="color:#9A6DFF">Md. Tajul Islam</span></h1>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d459a42-de86-4aef-a6c3-6ac1d99b1a96" >
+  <img src="https://pbs.twimg.com/profile_banners/1952217518162243584/1762274231/600x200" alt="Banner" />
 </p>
-<br>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<br>
-
+<h3 align="center">A passionate Front-End Developer from Bangladesh 🇧🇩</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<br> 
-<br> 
--👑 I am Web Developer <br> 
-- 👀 I’m interested in learning coding, especially in web development. <br> 
-- 🌱 I’m currently learning web development.  <br> 
-- 💞 I’m looking to collaborate on open-source projects, <br> 
-- 👉 and hackathons, or any coding-related challenges.
-<br>
-<br>
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/siamsheikh?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<br><br>
+- 👑 **Web Developer**  
+- 👀 Interested in coding, especially in web development  
+- 🌱 **Currently learning:** Advanced Front-End & Full-Stack Development  
+- 💞 Looking to collaborate on **open-source projects, hackathons, and coding challenges**  
+- ⚡ Fun fact: I once spent **3 hours debugging a single missing semicolon!** 😅  
 
-<br>
-<br>
+<p align="center">
+  <a href="https://twitter.com/siamsheikh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/tajul-islam-b4803a378" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:developer.tajulislam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://facebook.com/profile.php?id=61579169183396" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+---
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
+I’m a **Front-End Web Developer** who loves creating **user-friendly, fast, and visually appealing websites**.  
+In every project, I strive for **perfection and seamless user experience**.  
+I’m always eager to learn new technologies and enjoy sharing my knowledge with others.  
 
-<br>
-<br>
+💻 Comfortable working with: **HTML, CSS, JavaScript, React.js, TailwindCSS, MongoDB**  
+🎯 Goal: To **exceed client expectations** and deliver high-quality projects  
+
+---
 
 ## 🛠 Tech Stack & Tools
 
 ### 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Techs" />
 </p>
 
-### ⚙ Backend (Learning)
+### ⚙ Backend & Others (Learning)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🧰 Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,websocket" alt="Backend Techs" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
-
+## 📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siamsheikh-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siamsheikh-cyber&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=siamsheikh-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamsheikh-cyber&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%" />
 </div>
-<br>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siamsheikh-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siamsheikh-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-
-####  Github Link
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsheikh-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47" /> </p>
-
-<br>
 ---
-<br>
 
-## 📫 You can find me @
+## 📫 Contact Me
+<p align="center">
+📧 Email: <a href="mailto:developer.tajulislam@gmail.com">developer.tajulislam@gmail.com</a> <br>
+💼 LinkedIn: <a href="https://linkedin.com/in/tajul-islam-b4803a378">Md. Tajul Islam</a> <br>
+📘 Facebook: <a href="https://facebook.com/profile.php?id=61579169183396">Md. Tajul Islam</a>
+</p>
 
-<div>
+---
 
-📧 *Email:* [siamthecoder@gmail.com](mailto:siamthecoder@gmail.com)  
-💼 *LinkedIn:* [linkedin.com/in/ss-aa-98916737b](https://www.linkedin.com/in/ss-aa-98916737b/)  
-📘 *Facebook:* [facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/)  
-🌍 *Portfolio:* [my-portfolio-nine-flax-71.vercel.app](https://my-portfolio-nine-flax-71.vercel.app/)
+## 💬 Ask Me About
+- Frontend development, web design, or building responsive websites  
+- React.js, Next.js, TailwindCSS, and JavaScript  
 
-</div>
+---
+
+## 🌱 I’m Currently Learning
+- Advanced **React.js & Next.js** concepts  
+- **TypeScript** and scalable front-end architectures  
+- Full-stack development & API integration  
+
+---
+
+## 🤝 I Want to Collaborate On
+- Open-source projects  
+- Frontend & Full-Stack applications  
+- Hackathons or coding challenges  
+
+---
+
+## 🤔 I’m Looking for Help With
+- Improving **Next.js** and **TypeScript** skills  
+- Learning best practices for **clean and maintainable code**  
+
+---
+
+## 🎉 Fun Fact
+- I once spent **3 hours debugging a single missing semicolon!** 😅  
+- I love **coding with coffee** ☕ late at night  
+
